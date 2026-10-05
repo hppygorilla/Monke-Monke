@@ -1,8 +1,8 @@
 # Monke Monke
 
-**Do you want do have infinite Build resources and every Kit in Monke Blocks , Then this is for you :
+**Do you want do have infinite Build resources and every Kit in Monke Blocks , Then this is for you : **
 
-You will get every Kit in Monke Blocks and infinite builder resources , It can help if , You're building a very big Build but the orange stuff gets in the way **
+ ** You will get every Kit in Monke Blocks and infinite builder resources ** **, It can help if ** **, You're building a very big Build but the orange stuff gets in the way **
 
 
 
