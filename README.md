@@ -7,4 +7,4 @@
 <small>**for SteamVR , You need to be master client else you wont be able to use that except for kits and if you are master client it will be full for u but other players its not full but yall can go into the negatives**</small>
 
 
-![Every Kit](images/TEST.gif)
+![Every Kit](Images/TEST.gif)
